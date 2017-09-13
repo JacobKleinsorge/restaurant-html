@@ -1,5 +1,6 @@
 # restaurant-html
 Simple HTML Restaurant Menu
+
 A restaurant menu with simple structure and styling.
 
 To view: 
