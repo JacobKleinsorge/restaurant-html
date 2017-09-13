@@ -1,8 +1,9 @@
 # restaurant-html
 Simple HTML Restaurant Menu
+A restaurant menu with simple structure and styling.
 
-Open menu.html
-
+To view: 
+  Open menu.html in your browser
 
 Citations:
-All images sourced from https://www.tasteofhome.com
+  All images sourced from https://www.tasteofhome.com
